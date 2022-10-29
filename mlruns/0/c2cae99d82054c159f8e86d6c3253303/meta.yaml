@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/FLOW/mlruns/0/c2cae99d82054c159f8e86d6c3253303/artifacts
+end_time: 1667010080959
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2cae99d82054c159f8e86d6c3253303
+run_name: upbeat-carp-227
+run_uuid: c2cae99d82054c159f8e86d6c3253303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667010080900
+status: 3
+tags: []
+user_id: aravi

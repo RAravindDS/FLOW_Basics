@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/FLOW/mlruns/0/877dadb0aa8e44a9aa86e5e56ffec0c4/artifacts
+end_time: 1667010115422
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 877dadb0aa8e44a9aa86e5e56ffec0c4
+run_name: learned-quail-913
+run_uuid: 877dadb0aa8e44a9aa86e5e56ffec0c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667010115377
+status: 3
+tags: []
+user_id: aravi
