@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/FLOW/mlflow-codebase/simple-ML-model/mlruns/0/d674837f22bd4c30adfff05ef603fd7e/artifacts
+end_time: 1667013175308
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d674837f22bd4c30adfff05ef603fd7e
+run_name: unequaled-skink-271
+run_uuid: d674837f22bd4c30adfff05ef603fd7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667013175200
+status: 3
+tags: []
+user_id: aravi

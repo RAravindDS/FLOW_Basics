@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/FLOW/mlflow-codebase/simple-ML-model/mlruns/0/897713a25e7844998ec22a377052e3ce/artifacts
+end_time: 1667014182105
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 897713a25e7844998ec22a377052e3ce
+run_name: wistful-fowl-499
+run_uuid: 897713a25e7844998ec22a377052e3ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667014176098
+status: 3
+tags: []
+user_id: aravi
