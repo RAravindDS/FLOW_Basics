@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/FLOW/mlflow-codebase/simple-ML-model/mlruns/0/94a4e4daf2d14b5c959819e386210d1f/artifacts
+end_time: 1667015473784
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94a4e4daf2d14b5c959819e386210d1f
+run_name: casual-panda-773
+run_uuid: 94a4e4daf2d14b5c959819e386210d1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667015464988
+status: 3
+tags: []
+user_id: aravi

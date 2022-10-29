@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/FLOW/mlflow-codebase/simple-ML-model/mlruns/0/4ac42c65534b4924ab884a9d2c52ea1a/artifacts
+end_time: 1667015400096
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ac42c65534b4924ab884a9d2c52ea1a
+run_name: crawling-roo-879
+run_uuid: 4ac42c65534b4924ab884a9d2c52ea1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667015389848
+status: 3
+tags: []
+user_id: aravi

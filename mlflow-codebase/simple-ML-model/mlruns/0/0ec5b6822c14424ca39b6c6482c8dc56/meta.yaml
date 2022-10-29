@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/FLOW/mlflow-codebase/simple-ML-model/mlruns/0/0ec5b6822c14424ca39b6c6482c8dc56/artifacts
+end_time: 1667015131529
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ec5b6822c14424ca39b6c6482c8dc56
+run_name: industrious-mule-788
+run_uuid: 0ec5b6822c14424ca39b6c6482c8dc56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667015123851
+status: 3
+tags: []
+user_id: aravi

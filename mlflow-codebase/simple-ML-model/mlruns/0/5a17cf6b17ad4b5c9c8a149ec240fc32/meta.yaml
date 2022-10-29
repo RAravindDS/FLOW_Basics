@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/FLOW/mlflow-codebase/simple-ML-model/mlruns/0/5a17cf6b17ad4b5c9c8a149ec240fc32/artifacts
+end_time: 1667015311983
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a17cf6b17ad4b5c9c8a149ec240fc32
+run_name: fun-squid-121
+run_uuid: 5a17cf6b17ad4b5c9c8a149ec240fc32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667015300837
+status: 3
+tags: []
+user_id: aravi

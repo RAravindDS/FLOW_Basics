@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/FLOW/mlflow-codebase/simple-ML-model/mlruns/0/f27f6bde3f404a4d9056e6bb2df1b4d7/artifacts
+end_time: 1667015329447
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f27f6bde3f404a4d9056e6bb2df1b4d7
+run_name: able-kit-656
+run_uuid: f27f6bde3f404a4d9056e6bb2df1b4d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667015319570
+status: 3
+tags: []
+user_id: aravi

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/FLOW/mlflow-codebase/simple-ML-model/mlruns/0/bbf7d2fb9dbc4522aa3e206a79776a56/artifacts
+end_time: 1667015416463
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bbf7d2fb9dbc4522aa3e206a79776a56
+run_name: sneaky-robin-438
+run_uuid: bbf7d2fb9dbc4522aa3e206a79776a56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667015407243
+status: 3
+tags: []
+user_id: aravi

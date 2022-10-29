@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/FLOW/mlflow-codebase/simple-ML-model/mlruns/0/c6691d523ea94990a36d314095650e1b/artifacts
+end_time: 1667015293025
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6691d523ea94990a36d314095650e1b
+run_name: redolent-sloth-471
+run_uuid: c6691d523ea94990a36d314095650e1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667015281257
+status: 3
+tags: []
+user_id: aravi

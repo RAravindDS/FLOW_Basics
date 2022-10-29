@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/FLOW/mlflow-codebase/simple-ML-model/mlruns/0/97b885f77d1141fb8c63599820366b0c/artifacts
+end_time: 1667015273761
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97b885f77d1141fb8c63599820366b0c
+run_name: victorious-pug-826
+run_uuid: 97b885f77d1141fb8c63599820366b0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667015263235
+status: 3
+tags: []
+user_id: aravi

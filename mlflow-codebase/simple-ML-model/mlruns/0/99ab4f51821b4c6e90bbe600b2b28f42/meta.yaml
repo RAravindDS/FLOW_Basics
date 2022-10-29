@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/FLOW/mlflow-codebase/simple-ML-model/mlruns/0/99ab4f51821b4c6e90bbe600b2b28f42/artifacts
+end_time: 1667015105341
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99ab4f51821b4c6e90bbe600b2b28f42
+run_name: charming-mare-534
+run_uuid: 99ab4f51821b4c6e90bbe600b2b28f42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667015098200
+status: 3
+tags: []
+user_id: aravi

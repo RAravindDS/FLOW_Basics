@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/FLOW/mlflow-codebase/simple-ML-model/mlruns/0/a3c9dc4e3e5045e08a1d8ab9666e50b5/artifacts
+end_time: 1667015381839
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3c9dc4e3e5045e08a1d8ab9666e50b5
+run_name: gentle-colt-228
+run_uuid: a3c9dc4e3e5045e08a1d8ab9666e50b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667015371792
+status: 3
+tags: []
+user_id: aravi

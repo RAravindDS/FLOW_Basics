@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/FLOW/mlflow-codebase/simple-ML-model/mlruns/0/389730540b7e485db0016c3237907b6e/artifacts
+end_time: 1667015200643
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 389730540b7e485db0016c3237907b6e
+run_name: nosy-sloth-479
+run_uuid: 389730540b7e485db0016c3237907b6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667015189687
+status: 3
+tags: []
+user_id: aravi

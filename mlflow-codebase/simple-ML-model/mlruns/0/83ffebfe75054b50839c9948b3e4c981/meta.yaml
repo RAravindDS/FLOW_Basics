@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/FLOW/mlflow-codebase/simple-ML-model/mlruns/0/83ffebfe75054b50839c9948b3e4c981/artifacts
+end_time: 1667015144779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83ffebfe75054b50839c9948b3e4c981
+run_name: thundering-fly-449
+run_uuid: 83ffebfe75054b50839c9948b3e4c981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667015137318
+status: 3
+tags: []
+user_id: aravi

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/FLOW/mlflow-codebase/simple-ML-model/mlruns/0/e47316aed2a346da892461f79562e89d/artifacts
+end_time: 1667015091676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e47316aed2a346da892461f79562e89d
+run_name: languid-robin-922
+run_uuid: e47316aed2a346da892461f79562e89d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667015084342
+status: 3
+tags: []
+user_id: aravi

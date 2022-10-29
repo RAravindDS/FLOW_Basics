@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/FLOW/mlflow-codebase/simple-ML-model/mlruns/0/b96574c2713140e79e9b1ddc6cc38f45/artifacts
+end_time: 1667015181529
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b96574c2713140e79e9b1ddc6cc38f45
+run_name: enchanting-seal-827
+run_uuid: b96574c2713140e79e9b1ddc6cc38f45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667015170716
+status: 3
+tags: []
+user_id: aravi

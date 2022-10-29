@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/FLOW/mlflow-codebase/simple-ML-model/mlruns/0/2aef0e27828c48c79a529631edbdd961/artifacts
+end_time: 1667015160344
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2aef0e27828c48c79a529631edbdd961
+run_name: youthful-dolphin-726
+run_uuid: 2aef0e27828c48c79a529631edbdd961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667015150751
+status: 3
+tags: []
+user_id: aravi

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/FLOW/mlflow-codebase/simple-ML-model/mlruns/0/7d12bb1a795e402db10ef6f4ee9b1dbc/artifacts
+end_time: 1667015236434
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d12bb1a795e402db10ef6f4ee9b1dbc
+run_name: gifted-foal-273
+run_uuid: 7d12bb1a795e402db10ef6f4ee9b1dbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667015226970
+status: 3
+tags: []
+user_id: aravi

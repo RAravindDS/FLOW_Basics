@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/FLOW/mlflow-codebase/simple-ML-model/mlruns/0/ddd8440f7cfc4fe1b0d85c74e07b86c4/artifacts
+end_time: 1667015118228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ddd8440f7cfc4fe1b0d85c74e07b86c4
+run_name: unequaled-carp-816
+run_uuid: ddd8440f7cfc4fe1b0d85c74e07b86c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667015110999
+status: 3
+tags: []
+user_id: aravi

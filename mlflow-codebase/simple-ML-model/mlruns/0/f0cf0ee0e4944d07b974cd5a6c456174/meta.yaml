@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/FLOW/mlflow-codebase/simple-ML-model/mlruns/0/f0cf0ee0e4944d07b974cd5a6c456174/artifacts
+end_time: 1667015444042
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0cf0ee0e4944d07b974cd5a6c456174
+run_name: adorable-foal-657
+run_uuid: f0cf0ee0e4944d07b974cd5a6c456174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667015437611
+status: 3
+tags: []
+user_id: aravi

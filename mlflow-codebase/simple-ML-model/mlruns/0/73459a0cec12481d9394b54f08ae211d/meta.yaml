@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/FLOW/mlflow-codebase/simple-ML-model/mlruns/0/73459a0cec12481d9394b54f08ae211d/artifacts
+end_time: 1667015457538
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73459a0cec12481d9394b54f08ae211d
+run_name: dazzling-bug-507
+run_uuid: 73459a0cec12481d9394b54f08ae211d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667015449416
+status: 3
+tags: []
+user_id: aravi
